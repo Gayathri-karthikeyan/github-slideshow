@@ -6,6 +6,6 @@ title: "Welcome to our second slide!"
 
 ---
 
-Your text
+Never lose hope :)
 
 Use the left arrow to go back!
